@@ -27,7 +27,8 @@ const About = () => {
                 Get IN Touch
               </a>
               <a
-                href="#"
+                href="/portfolio/public/Mustafa_Ali.Frontend_Developer.pdf"
+                download
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
