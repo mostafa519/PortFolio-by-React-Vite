@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Some Movies",
     description: "A beautiful landing page app show movie and his detalis and can put it in favourite page",
-    image: "/portfolio/public/img//movie.jpg",
+    image: "portfolio/public/img//movie.jpg",
     tags: ["React", "Bootstrap 5", "React-Router-Dom","Redux-toolkit","React-Icons"],
     demoUrl: "https://movies-phi-lemon.vercel.app/",
     githubUrl: "https://github.com/mostafa519?tab=repositories",
@@ -15,7 +15,7 @@ const projects = [
     title: "Clothes Shop",
     description:
       "Full-featured Clothes Shop platform with user authentication ",
-    image: "/portfolio/public/img/clothes.jpeg",
+    image: "portfolio/public/img/clothes.jpeg",
     tags: ["React", "Bootstrap 5", "React-Router-Dom","Redux-toolkit","React-Icons","MongoDB","FireBase"],
     demoUrl: "https://myclothes-shop.vercel.app/Register",
     githubUrl: "https://github.com/mostafa519?tab=repositories",
@@ -25,7 +25,7 @@ const projects = [
     title: "E-commerce Platform",
     description:
       "Full-featured e-commerce platform is Responsive Web Design",
-    image: "/portfolio/public/img/ecommerce-2015.jpg",
+    image: "portfolio/public/img/ecommerce-2015.jpg",
     tags: ["React", "Bootstrap 5", "React-Router-Dom","Redux-toolkit","Redux","Rest APIs","React-Icons"],
     demoUrl: "https://e-commerce-five-lilac.vercel.app/",
     githubUrl: "https://github.com/mostafa519?tab=repositories",
@@ -33,7 +33,7 @@ const projects = [
     id: 4,
     title: "Some Projects",
     description: "A beautiful landing page app show Movies ,Articles and Products",
-    image: "/portfolio/public/img/appicon.png",
+    image: "portfolio/public/img/appicon.png",
     tags: ["React", "Bootstrap 5", "React-Router-Dom","Redux-toolkit","React-Icons"],
     demoUrl: "https://someprojects.vercel.app/",
     githubUrl: "https://github.com/mostafa519?tab=repositories",
@@ -43,7 +43,7 @@ const projects = [
     title: "Weather",
     description:
       "Full-featured Weather site ,Can show the weather of your Country",
-    image: "/portfolio/public/img/weather.jpg",
+    image: "portfolio/public/img/weather.jpg",
     tags: ["React", "HTML/CSS", "material UI","Axios"],
     demoUrl: "https://weather-mostafa519.vercel.app/",
     githubUrl: "https://github.com/mostafa519?tab=repositories",
@@ -53,7 +53,7 @@ const projects = [
     title: "Booking Clone",
     description:
       "Look like Booking site ",
-    image: "/portfolio/public/img/booking.jpg",
+    image: "portfolio/public/img/booking.jpg",
     tags: ["HTML", "Sass/CSS 5", "JavaScript","Bootstrap"],
     demoUrl: "https://netflix-clone-react-t4l7.vercel.app/",
     githubUrl: "https://github.com/mostafa519?tab=repositories",
