@@ -4,7 +4,7 @@ function NotFound() {
     <div className="not-found">
       <Divider>
         <img
-          src="../../../public/img/error.png"
+          src="/portfolio/public/img/error.png"
           className="not-found-img"
           alt="Not Found Page"
         />
