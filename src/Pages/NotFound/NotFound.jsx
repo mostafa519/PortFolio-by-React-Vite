@@ -4,7 +4,7 @@ function NotFound() {
     <div className="not-found">
       <Divider>
         <img
-          src="/portfolio/public/img/error.png"
+          src="https://img.freepik.com/premium-vector/window-operating-system-error-warning-dialog-window-popup-message-with-system-failure-flat-design_812892-54.jpg"
           className="not-found-img"
           alt="Not Found Page"
         />
